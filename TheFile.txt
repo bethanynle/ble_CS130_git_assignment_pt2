@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 7
+=======
+7
+4
+<<<<<<< HEAD
+6
+=======
+6
+3
+<<<<<<< HEAD
+5
+=======
+5
+2
+Resolved
+Resolved Again
+Resolved Yet Again
